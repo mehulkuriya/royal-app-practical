@@ -40,5 +40,10 @@ Start the local development server
 
 You can now access the server at http://127.0.0.1:8000/
 
+Login Credentials :
+
+Email : ahsoka.tano@royal-apps.io
+Password : Kryze4President
+
 
     

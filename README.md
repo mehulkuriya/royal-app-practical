@@ -31,6 +31,7 @@ Generate a new application key
 Install the NPM dependenices
 
    npm install
+   
    npm run build
 
 Start the local development server
